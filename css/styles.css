@@ -1,6 +1,6 @@
 body {
-    background-color: #bd8544;
-    color: blue;
+    background-color: #333;
+    color: #85dcaa;
     font-family: courier;
     font-size: 16px;
     text-align: center;
@@ -9,8 +9,8 @@ body {
 }
 
 #cabecera {
-    background-color: #7f1f18;
-    box-shadow: 5px 5px 30px 1px #85dcaa;
+    background-color: #74302b;
+    box-shadow: 5px 0px 10px 1px #85dcaa;
     color: #85dcaa;
     font-weight: bold;
     margin: 0;
