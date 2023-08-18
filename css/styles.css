@@ -5,7 +5,25 @@ body {
     font-size: 16px;
     text-align: center;
     padding: 0;
+    margin-top: 10px;
+}
+
+#cabecera {
+    background-color: #7f1f18;
+    box-shadow: 5px 5px 30px 1px #85dcaa;
+    color: #85dcaa;
+    font-weight: bold;
     margin: 0;
+    padding: 0.5em;
+    border-radius: 5px;
+
+}
+
+#cabecera #tagline {
+    margin: 0 0 0 1em;
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #container {
